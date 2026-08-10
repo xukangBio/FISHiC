@@ -10,8 +10,6 @@
 
 ![Overview of the FISHi-C framework](assets/Figure1.webp)
 
-**Figure 1. Overview of FISHi-C.** The framework integrates multimodal chromatin data, learns structural priors through masked diffusion pretraining, and transfers the pretrained representation to FISH imputation, bulk Hi-C enhancement, and scHi-C enhancement through LoRA.
-
 ## Contents
 
 - [Installation](#installation)

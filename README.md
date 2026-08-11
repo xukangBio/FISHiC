@@ -54,6 +54,7 @@ FISHi-C/
 │   └── SC_enhance_data/        # Paired single-cell Hi-C data
 ├── data_process/
 │   └── preprocess_fish_data.py
+│   └── preprocess_hic_data.py
 ├── generate_mask/              # Utilities for constructing FISH masks
 ├── models/                     # Network, diffusion, and LoRA modules
 ├── utils/                      # Dataset loaders and evaluation metrics

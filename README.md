@@ -8,7 +8,7 @@
 
 ## Overview
 
-![Overview of the FISHi-C framework](assets/Figure1.webp)
+![Overview of the FISHi-C framework](assets/Figure1.jpg)
 
 ## Contents
 
